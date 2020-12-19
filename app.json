@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CurrencyConverter",
-    "slug": "CurrencyConverter",
+    "name": "ReactNativeApp",
+    "slug": "ReactNativeApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "androidStatusBar": {
+      "translucent": false
     }
   }
 }
